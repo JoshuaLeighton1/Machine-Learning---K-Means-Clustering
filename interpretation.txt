@@ -1,0 +1,12 @@
+In the 2008 dataset, the mean birth rate of each cluster, decreased. In countries considered to be first world, such as Australia, Isael, Japan, Luxembourg, the birth rate was the lowest. With 3 clusters, and 10 iterations. The countries considered to be developing had the highest birth rate. As opposed to the 1953 data, where the mean birth rates were not too far apart. 
+
+In the 2008 dataset, the mean life expectancy of each cluster had increased by a large amount. Again, the countries considered to be first world, had the highest life expectancy, and the countries considered to be developing had the lowest life expectancy. 
+
+The number of countries belonging to each cluster also changed dramatically. The amount in cluster 0 and 2 had almost halved in the 2008 dataset. Showing a relationship between better functioning Countries and cluster 1. An example of this is, some countries being stable and growing but remaining in cluster 1, such as the USA and the Uk.
+
+in databoth cluster 0, mostly contains 1953(countries) which is to be exected, as their growth won't have been that exponential so they remain in the same cluster as we have seen running 1953 and 2008 seperately.
+It could be said that the higher the birth rate, the lower the life expectancy as is implied by the data, with cluster 0 always having a higher birthrate and a lower life expectacy. 
+
+ However, as per our relationship described above, you can see cluster 1, has the most countries belonging to it, and also the higher life expectancy, with the lowest birth rate. Reaffirming our theory, that the more developed a country is the more likely it is to lie in cluster 1. Once again we can see this is a stable place for already developed countries, as 2008 and 1953 USA remain in the same cluster. Once a country enters this cluster it is unlikely to leave. This is why cluster 1 and 2 are mostly filled with 2008(countries).
+
+2008 South Africa and 1953 USA are in the same cluster. Since 1953 South Africa is in cluster 0, we can see that it has moved up by 2008 and therefore we can say it has developed. 
